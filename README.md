@@ -46,7 +46,6 @@ The entire project works perfectly fine. Live detection gives good frame rates d
 
 # Project Components:
 - Spotipy is a module for establishing connection to and getting tracks from Spotify using Spotipy wrapper.
-- haarcascade is for face detection.
 - camera.py is the module for video streaming, frame capturing, prediction and recommendation which are passed to main.py.
 - main.py is the main flask application file.
 - index.html in 'templates' directory is the web page for the application. Basic HTML and CSS.
